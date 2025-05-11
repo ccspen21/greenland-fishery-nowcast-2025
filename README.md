@@ -1,5 +1,5 @@
 Greenland Fisheries Nowcasting System – Project Runbook
-Channing Spencer, Mohammad Alwazzan, Sahlmah Animashaun
+Mohammad Alwazzan, Channing Spencer, Sahlmah Animashaun
 
 Background
 
